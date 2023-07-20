@@ -1,0 +1,6 @@
+site_name: My Docs
+
+nav:
+  - 初期画面: index.md
+  - section1:
+    - page2.md
